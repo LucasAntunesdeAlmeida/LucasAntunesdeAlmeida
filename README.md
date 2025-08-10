@@ -1,6 +1,5 @@
 <h2> Hi, I'm Lucas Antunes de Almeida! </h2>
 <p><em>Computer Scientist at <a href="https://unipampa.edu.br/">Federal University of PAMPA (UNIPAMPA)</a></p>
-<p><em>Consultant at <a href="https://www.create.pt/">Create IT</a></p>
 
 ### A little about myself...  
 
